@@ -1,0 +1,54 @@
+body {
+  background-color: tan;
+}
+body {
+  color: white;
+}
+
+body {
+  color: white;
+}
+
+p {
+  font-family: Segoe Script, Times, serif;
+}
+
+body {
+  font-size: 20px;
+}
+
+h1 {
+  font-family:  Segoe Script;
+}
+
+h2 {
+  font-family: Segoe Script
+}
+h2 {
+  color: darkcyan;
+}
+h4 {
+  font-family: Segoe Script
+}
+h4 {
+  color: black;
+}
+/* unvisited link */
+a:link {
+  color: gray;
+}
+
+/* visited link */
+a:visited {
+  color: gray;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+}
